@@ -572,13 +572,12 @@ section#projectDescription {
 /*** pinterest like ***/
 .pinBox{
 	background:black;
-	border:1px solid #eee;
 	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.25);
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
 }
-.pinInfo li a {color:#fff;}
-.iconLinks a:hover i, .pinInfo li a:hover{text-shadow: 0 0 5px #FFF;}
+.pinInfo li a {color:blue;}
+.iconLinks a:hover i, .pinInfo li a:hover{text-shadow: 0 0 5px white;}
  
 .imgHover figcaption {
 	background: #3d3d3d;
@@ -708,7 +707,7 @@ section#projectDescription {
 
 .boxContent {border: 1px dashed rgba(0,0,0,0.15); border-top: none;}
 
-.boxContent h2, .boxContent h3 {color:#3d3d3d;}
+.boxContent h2, .boxContent h3 {color:blue;}
 /*** Feature box **/
 
 .boxFeature i {color:#3d3d3d ;} 
